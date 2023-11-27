@@ -947,7 +947,7 @@ BLE 5.0 Long Range
 ### 3. 추가 정보 입력
 
 - 이름(필수) 및 추가 정보(선택) 입력
-<table>
+<table width="50%">
 <tr>
 <td>
 <img src="./img/addinfo1.png" />
@@ -955,6 +955,7 @@ BLE 5.0 Long Range
 <td>
 <img src="./img/addinfo2.png" />
 </td>
+</tr>
 </table>
 
 ### 4. 메인 화면
@@ -965,10 +966,16 @@ BLE 5.0 Long Range
 
 - 현재 내 건강 상태 업데이트 (건강, 부상, 사망)
 - 마지막 서버 연결 시간 확인
-<div>
-<img src="./img/status1.png" width="25%" />
-<img src="./img/status2.png" width="25%" />
-</div>
+<table width="50%">
+<tr>
+<td>
+<img src="./img/status1.png" />
+</td>
+<td>
+<img src="./img/status2.png" />
+</td>
+</tr>
+</table>
 
 #### 4-2. 블루투스
 
@@ -984,13 +991,25 @@ BLE 5.0 Long Range
 - 주변목록 : 블루투스 Mesh를 사용한 장거리 연결
   - Mesh로 연결 가능한 사람 확인
   - 연결된 사람과 채팅하기
-  <div>
-  <img src="./img/bluetooth1.png" width="25%" />
-  <img src="./img/bluetooth2.png" width="25%" />
-  <img src="./img/bluetooth3.png" width="25%" />
-  <img src="./img/bluetooth4.png" width="25%" />
-  <img src="./img/bluetooth5.png" width="25%" />
-  </div>
+<table>
+<tr>
+<td>
+<img src="./img/bluetooth1.png" />
+</td>
+<td>
+<img src="./img/bluetooth2.png" />
+</td>
+<td>
+<img src="./img/bluetooth3.png" />
+</td>
+<td>
+<img src="./img/bluetooth4.png" />
+</td>
+<td>
+<img src="./img/bluetooth5.png" />
+</td>
+</tr>
+</table>
 
 #### 4-3. 채팅
 
@@ -998,19 +1017,35 @@ BLE 5.0 Long Range
 
 - 하단 바 또는 내 상태에서 접근가능
 - 텍스트로 주변 사람과 채팅
-<div>
-<img src="./img/chat1.png" width="25%" />
-<img src="./img/chat2.png" width="25%" />
-</div>
+<table width="50%">
+<tr>
+<td>
+<img src="./img/chat1.png" />
+</td>
+<td>
+<img src="./img/chat2.png" />
+</td>
+</tr>
+</table>
 
 ### 5. 가족
 
-<div>
-<img src="./img/family1.png" width="25%" />
-<img src="./img/family2.png" width="25%" />
-<img src="./img/family3.png" width="25%" />
-<img src="./img/family4.png" width="25%" />
-</div>
+<table>
+<tr>
+<td>
+<img src="./img/family1.png" />
+</td>
+<td>
+<img src="./img/family2.png" />
+</td>
+<td>
+<img src="./img/family3.png" />
+</td>
+<td>
+<img src="./img/family4.png" />
+</td>
+</tr>
+</table>
 
 #### 5-1. 가족 신청 (온라인)
 
