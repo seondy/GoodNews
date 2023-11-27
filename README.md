@@ -963,8 +963,9 @@ BLE 5.0 Long Range
 - 마지막 서버 연결 시간 확인
 
 <div style="display: flex;">
-<img src="./img/status1.png" width="25%" style="margin-right:12px;" />
-<img src="./img/status2.png" width="25%" />
+<!-- <img src="./img/status1.png" width="25%" style="margin-right:12px;" />
+<img src="./img/status2.png" width="25%" /> -->
+<img src="./img/내상태변경.gif" width="25%">
 </div>
 
 #### 4-2. 블루투스
