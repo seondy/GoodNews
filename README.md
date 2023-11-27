@@ -984,6 +984,9 @@ BLE 5.0 Long Range
   - 연결된 사람과 채팅하기
 <table>
 <tr>
+<img src="./img/BLE연결.gif" />
+</tr>
+<tr>
 <td>
 <img src="./img/bluetooth1.png" />
 </td>
@@ -1009,9 +1012,9 @@ BLE 5.0 Long Range
 - 하단 바 또는 내 상태에서 접근가능
 - 텍스트로 주변 사람과 채팅
 <div style="display: flex;">
+<img src="./img/BLE로연결된사용자와의채팅.gif" width="25%" style="margin-right:12px;">
 <img src="./img/chat1.png" width="25%" style="margin-right:12px;" />
-<img src="./img/chat2.png" width="25%" style="margin-right:12px;" />
-<img src="./img/BLE로연결된사용자와의채팅.gif" width="25%">
+<img src="./img/chat2.png" width="25%" />
 </div>
 
 ### 5. 가족
