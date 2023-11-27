@@ -854,7 +854,6 @@
 
 <br/>
 
-
 <br>
 
 ## 주요 활용 기술
@@ -877,7 +876,7 @@ BLE 5.0 Long Range
 
 - 스마트폰 광고  
    자신의 스마트폰을 BLE Long Range 모드로 광고하여 다른 스마트폰에서 BLE Long Range 모드로 스캔할 수 있다.
-  광고 데이터에는 자신의 ID, 이름, Bluetooth MAC 주소를 담아 다른 스마트폰에서 식별 가능.
+  광고 데이터에는 자신의 ID, 이름, Bluetooth MAC 주소를 담아 다른 스마트폰에서 식별 가능하다.   
   희소식 앱만의 UUID를 담아 광고하여 스캔 시에 다른 블루투스 기기들은 필터링하고 희소식 앱을 사용 중인 기기만 스캔되도록 한다.
 
 - 스마트폰 스캔  
@@ -908,14 +907,51 @@ BLE 5.0 Long Range
 ### 1. 튜토리얼
 
 - '희소식' 앱 소개 및 사용 방법
+<table>
+<tr>
+<td>
+<img src="./img/tutorial1.png" />
+</td>
+<td>
+<img src="./img/tutorial2.png" />
+</td>
+<td>
+<img src="./img/tutorial3.png" />
+</td>
+<td>
+<img src="./img/tutorial4.png" />
+</td>
+</tr>
+</table>
 
 ### 2. 사용 권한 안내
 
 - '희소식' 앱 사용을 위한 권한 설정
+<table>
+<tr>
+<td>
+<img src="./img/permission1.png" />
+</td>
+<td>
+<img src="./img/permission2.png" />
+</td>
+<td>
+<img src="./img/permission3.png" />
+</td>
+<td>
+<img src="./img/permission4.png" />
+</td>
+</tr>
+</table>
 
 ### 3. 추가 정보 입력
 
 - 이름(필수) 및 추가 정보(선택) 입력
+
+<div style="display: flex;">
+<img src="./img/addinfo1.png" width="25%" style="margin-right:12px;" />
+<img src="./img/addinfo2.png" width="25%" />
+</div>
 
 ### 4. 메인 화면
 
@@ -925,6 +961,11 @@ BLE 5.0 Long Range
 
 - 현재 내 건강 상태 업데이트 (건강, 부상, 사망)
 - 마지막 서버 연결 시간 확인
+
+<div style="display: flex;">
+<img src="./img/status1.png" width="25%" style="margin-right:12px;" />
+<img src="./img/status2.png" width="25%" />
+</div>
 
 #### 4-2. 블루투스
 
@@ -940,6 +981,25 @@ BLE 5.0 Long Range
 - 주변목록 : 블루투스 Mesh를 사용한 장거리 연결
   - Mesh로 연결 가능한 사람 확인
   - 연결된 사람과 채팅하기
+<table>
+<tr>
+<td>
+<img src="./img/bluetooth1.png" />
+</td>
+<td>
+<img src="./img/bluetooth2.png" />
+</td>
+<td>
+<img src="./img/bluetooth3.png" />
+</td>
+<td>
+<img src="./img/bluetooth4.png" />
+</td>
+<td>
+<img src="./img/bluetooth5.png" />
+</td>
+</tr>
+</table>
 
 #### 4-3. 채팅
 
@@ -947,8 +1007,29 @@ BLE 5.0 Long Range
 
 - 하단 바 또는 내 상태에서 접근가능
 - 텍스트로 주변 사람과 채팅
+<div style="display: flex;">
+<img src="./img/chat1.png" width="25%" style="margin-right:12px;" />
+<img src="./img/chat2.png" width="25%" />
+</div>
 
 ### 5. 가족
+
+<table>
+<tr>
+<td>
+<img src="./img/family1.png" />
+</td>
+<td>
+<img src="./img/family2.png" />
+</td>
+<td>
+<img src="./img/family3.png" />
+</td>
+<td>
+<img src="./img/family4.png" />
+</td>
+</tr>
+</table>
 
 #### 5-1. 가족 신청 (온라인)
 
@@ -970,6 +1051,34 @@ BLE 5.0 Long Range
 - 장소의 사용 가능 여부 설정 및 확인
 
 ### 6. 지도
+
+<table>
+<tr> 
+<th>전체</th>
+<th>대피소</th>
+<th>가족</th>
+<th>약속장소</th>
+<th>시설 목록</th>
+</tr>
+<tr>
+<td>
+  <img src="./img/map1.png" width="100%"/>
+</td> 
+<td>
+  <img src="./img/map2.png" width="100%"/>
+</td>
+<td>
+  <img src="./img/map3.png" width="100%"/>
+</td>  
+<td>
+  <img src="./img/map4.png" width="100%"/>
+</td>
+<td>
+  <img src="./img/map5.png" width="100%"/>
+</td>  
+
+</tr>
+</table>
 
 #### 6-1. 사용자 위치 추적
 
@@ -1000,28 +1109,54 @@ BLE 5.0 Long Range
 
 - 정보 공유 버튼 클릭 시 현재 위치의 현황 정보를 저장 가능
 
+
+<table>
+<td>
+  <img src="./img/warningshare.png" width="100%"/>
+</td> 
+<td>
+  <img src="./img/warningshare2.png" width="100%"/>
+</td>
+<td>
+  <img src="./img/warningshare3.png" width="100%"/>
+</td>
+</table>
+
 #### 6-7. 반경 20M내 위험 발생 시 알림
 
 - 사용자의 위치를 기준으로 반경 20M내 위험이 존재할 경우 가장 최근 위험 정보를 알림으로 제공
 
 ### 7. 내 정보
 
+
 #### 7-1. 정보 수정
 
 - 어플 초기 실행 시 등록한 추가 정보 수정 기능
+<div style="display: flex;">
+<img src="./img/mypage1.png" width="25%" style="margin-right:12px;" />
+<img src="./img/mypage2.png" width="25%" />
+</div>
 
 #### 7-2. 다크모드
 
 - 배터리 소모 방지를 위해 다크 모드 제공
 
+<img src = "./img/darkmode.png" width = "25%"/>
+
 #### 7-3. 지도 다운로드
 
 - 기본 내장 지도는 7-13 줌 레벨을 가진 데이터이나, 지도 다운로드 시 7-15 줌 레벨의 데이터를 이용해 상세한 지도 렌더링 가능
+
+<div style="display: flex;">
+<img src="./img/down1.png" width="25%" style="margin-right:12px;" />
+<img src="./img/down2.png" width="25%" />
+</div>
 
 #### 7-4. 앱 저장 및 공유
 
 - APK 파일을 다운로드 하는 기능 제공 (온라인)
 - 안드로이드에 내장된 NEARBYSHARE 기능을 활용하여 APK 파일 전송 (오프라인)
+
 
 ### 8. 기타 기능
 
@@ -1037,11 +1172,36 @@ BLE 5.0 Long Range
 
 - 사용 기록에서 문구 즐겨찾기 등록
 
+<img src="./img/flash.png" width="25%"/>
+
 #### 8-2. 경보
 
 : 긴급 상황 시 소리를 이용한 구조 요청 기능
 
-- 경보음 실행
+- 경보음 실행   
+
+<img src="./img/emergency.png" width="25%"/>
+
+
+#### 8-3. 알림
+<table>
+<tr> 
+<th>채팅 알림</th>
+<th>구조 요청 알림</th>
+<th>가족 연결 알림</th>
+</tr>
+<tr>
+<td>
+  <img src="./img/alarm1.png" width="100%"/>
+</td> 
+<td>
+  <img src="./img/alarm2.png" width="100%"/>
+</td>
+<td>
+  <img src="./img/alarm3.png" width="100%"/>
+</td>  
+</tr>
+</table>
 
 ### 9. 동기화
 
@@ -1061,7 +1221,6 @@ BLE 5.0 Long Range
 - 연결 시간 이후 정보를 업데이트
 - Redis를 사용하여 각 위치의 최신 정보만 DB에 저장
 ```
-
 
 ## 📝 프로젝트 산출물
 
