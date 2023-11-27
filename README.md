@@ -1052,6 +1052,34 @@ BLE 5.0 Long Range
 
 ### 6. 지도
 
+<table>
+<tr> 
+<td style = "text-align:center">전체</td>
+<td style = "text-align:center">대피소</td>
+<td style = "text-align:center">가족</td>
+<td style = "text-align:center">약속장소</td>
+<td style = "text-align:center">시설 목록</td>
+</tr>
+<tr>
+<td>
+  <img src="./img/map1.png" width="100%"/>
+</td> 
+<td>
+  <img src="./img/map2.png" width="100%"/>
+</td>
+<td>
+  <img src="./img/map3.png" width="100%"/>
+</td>  
+<td>
+  <img src="./img/map4.png" width="100%"/>
+</td>
+<td>
+  <img src="./img/map5.png" width="100%"/>
+</td>  
+
+</tr>
+</table>
+
 #### 6-1. 사용자 위치 추적
 
 - 백그라운드 위치 권한 허용으로 사용자의 위치를 10초 간격으로 확인하고 어플리케이션 DB인 REALM에 갱신 저장
@@ -1104,34 +1132,6 @@ BLE 5.0 Long Range
 - APK 파일을 다운로드 하는 기능 제공 (온라인)
 - 안드로이드에 내장된 NEARBYSHARE 기능을 활용하여 APK 파일 전송 (오프라인)
 
-<table>
-<tr> 
-<th style = "text-align:center">채팅 알림</th>
-<th style = "text-align:center">구조 요청 알림</th>
-<th style = "text-align:center">가족 연결 알림</th>
-<th style = "text-align:center">구조 요청 알림</th>
-<th style = "text-align:center">가족 연결 알림</th>
-</tr>
-<tr>
-<td>
-  <img src="./img/map1.png" width="100%"/>
-</td> 
-<td>
-  <img src="./img/map2.png" width="100%"/>
-</td>
-<td>
-  <img src="./img/map3.png" width="100%"/>
-</td>  
-<td>
-  <img src="./img/map4.png" width="100%"/>
-</td>
-<td>
-  <img src="./img/map5.png" width="100%"/>
-</td>  
-
-</tr>
-</table>
-
 
 ### 8. 기타 기능
 
@@ -1147,34 +1147,15 @@ BLE 5.0 Long Range
 
 - 사용 기록에서 문구 즐겨찾기 등록
 
-<table width = "33%">
-<tr> 
-<th style = "text-align:center">긴급 손전등 실행</th>
-</tr>
-<tr>
-<td style = "text-align : center">
-  <img src="./img/flash.png" width="100%"/>
-</td> 
-</tr>
-</table>
+<img src="./img/flash.png" width="25%"/>
 
 #### 8-2. 경보
 
 : 긴급 상황 시 소리를 이용한 구조 요청 기능
 
-- 경보음 실행
-<table width = "33%">
-<tr> 
-<th style = "text-align:center">경보음 실행</th>
-</tr>
-<tr>
-<td style="text-align : center">
-  <img src="./img/emergency.png" width="100%"/>
-</td> 
-</tr>
-</table>
+- 경보음 실행   
 
-
+<img src="./img/emergency.png" width="25%"/>
 
 
 
