@@ -984,7 +984,7 @@ BLE 5.0 Long Range
   - 연결된 사람과 채팅하기
 <table>
 <tr>
-<img src="./img/BLE연결.gif" />
+<img src="./img/BLE연결.gif" width="25%"/>
 </tr>
 <tr>
 <td>
