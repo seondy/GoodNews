@@ -907,30 +907,55 @@ BLE 5.0 Long Range
 ### 1. 튜토리얼
 
 - '희소식' 앱 소개 및 사용 방법
-<div>
-<img src="./img/tutorial1.png" width="25%" />
-<img src="./img/tutorial2.png" width="25%" />
-<img src="./img/tutorial3.png" width="25%" />
-<img src="./img/tutorial4.png" width="25%" />
-</div>
+<table>
+<tr>
+<td>
+<img src="./img/tutorial1.png" />
+</td>
+<td>
+<img src="./img/tutorial2.png" />
+</td>
+<td>
+<img src="./img/tutorial3.png" />
+</td>
+<td>
+<img src="./img/tutorial4.png" />
+</td>
+</tr>
+</table>
 
 ### 2. 사용 권한 안내
 
 - '희소식' 앱 사용을 위한 권한 설정
-<div>
-<img src="./img/permission1.png" width="25%" />
-<img src="./img/permission2.png" width="25%" />
-<img src="./img/permission3.png" width="25%" />
-<img src="./img/permission4.png" width="25%" />
-</div>
+<table>
+<tr>
+<td>
+<img src="./img/permission1.png" />
+</td>
+<td>
+<img src="./img/permission2.png" />
+</td>
+<td>
+<img src="./img/permission3.png" />
+</td>
+<td>
+<img src="./img/permission4.png" />
+</td>
+</tr>
+</table>
 
 ### 3. 추가 정보 입력
 
 - 이름(필수) 및 추가 정보(선택) 입력
-<div>
-<img src="./img/addinfo1.png" width="25%" />
-<img src="./img/addinfo2.png" width="25%" />
-</div>
+<table>
+<tr>
+<td>
+<img src="./img/addinfo1.png" />
+</td>
+<td>
+<img src="./img/addinfo2.png" />
+</td>
+</table>
 
 ### 4. 메인 화면
 
@@ -959,13 +984,13 @@ BLE 5.0 Long Range
 - 주변목록 : 블루투스 Mesh를 사용한 장거리 연결
   - Mesh로 연결 가능한 사람 확인
   - 연결된 사람과 채팅하기
-<div>
-<img src="./img/bluetooth1.png" width="25%" />
-<img src="./img/bluetooth2.png" width="25%" />
-<img src="./img/bluetooth3.png" width="25%" />
-<img src="./img/bluetooth4.png" width="25%" />
-<img src="./img/bluetooth5.png" width="25%" />
-</div>
+  <div>
+  <img src="./img/bluetooth1.png" width="25%" />
+  <img src="./img/bluetooth2.png" width="25%" />
+  <img src="./img/bluetooth3.png" width="25%" />
+  <img src="./img/bluetooth4.png" width="25%" />
+  <img src="./img/bluetooth5.png" width="25%" />
+  </div>
 
 #### 4-3. 채팅
 
@@ -979,6 +1004,7 @@ BLE 5.0 Long Range
 </div>
 
 ### 5. 가족
+
 <div>
 <img src="./img/family1.png" width="25%" />
 <img src="./img/family2.png" width="25%" />
