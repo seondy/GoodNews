@@ -947,16 +947,11 @@ BLE 5.0 Long Range
 ### 3. 추가 정보 입력
 
 - 이름(필수) 및 추가 정보(선택) 입력
-<table width="50%">
-<tr>
-<td>
-<img src="./img/addinfo1.png" />
-</td>
-<td>
-<img src="./img/addinfo2.png" />
-</td>
-</tr>
-</table>
+
+<div style="display: flex;">
+<img src="./img/addinfo1.png" width="25%" style="margin-right:12px;" />
+<img src="./img/addinfo2.png" width="25%" />
+</div>
 
 ### 4. 메인 화면
 
@@ -966,16 +961,11 @@ BLE 5.0 Long Range
 
 - 현재 내 건강 상태 업데이트 (건강, 부상, 사망)
 - 마지막 서버 연결 시간 확인
-<table width="50%">
-<tr>
-<td>
-<img src="./img/status1.png" />
-</td>
-<td>
-<img src="./img/status2.png" />
-</td>
-</tr>
-</table>
+
+<div style="display: flex;">
+<img src="./img/status1.png" width="25%" style="margin-right:12px;" />
+<img src="./img/status2.png" width="25%" />
+</div>
 
 #### 4-2. 블루투스
 
@@ -1017,16 +1007,10 @@ BLE 5.0 Long Range
 
 - 하단 바 또는 내 상태에서 접근가능
 - 텍스트로 주변 사람과 채팅
-<table width="50%">
-<tr>
-<td>
-<img src="./img/chat1.png" />
-</td>
-<td>
-<img src="./img/chat2.png" />
-</td>
-</tr>
-</table>
+<div style="display: flex;">
+<img src="./img/chat1.png" width="25%" style="margin-right:12px;" />
+<img src="./img/chat2.png" width="25%" />
+</div>
 
 ### 5. 가족
 
