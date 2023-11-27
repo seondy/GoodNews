@@ -1109,23 +1109,48 @@ BLE 5.0 Long Range
 
 - 정보 공유 버튼 클릭 시 현재 위치의 현황 정보를 저장 가능
 
+
+<table>
+<td>
+  <img src="./img/warningshare.png" width="100%"/>
+</td> 
+<td>
+  <img src="./img/warningshare2.png" width="100%"/>
+</td>
+<td>
+  <img src="./img/warningshare3.png" width="100%"/>
+</td>
+</table>
+
 #### 6-7. 반경 20M내 위험 발생 시 알림
 
 - 사용자의 위치를 기준으로 반경 20M내 위험이 존재할 경우 가장 최근 위험 정보를 알림으로 제공
 
 ### 7. 내 정보
 
+
 #### 7-1. 정보 수정
 
 - 어플 초기 실행 시 등록한 추가 정보 수정 기능
+<div style="display: flex;">
+<img src="./img/mypage1.png" width="25%" style="margin-right:12px;" />
+<img src="./img/mypage2.png" width="25%" />
+</div>
 
 #### 7-2. 다크모드
 
 - 배터리 소모 방지를 위해 다크 모드 제공
 
+<img src = "./img/darkmode.png" width = "25%"/>
+
 #### 7-3. 지도 다운로드
 
 - 기본 내장 지도는 7-13 줌 레벨을 가진 데이터이나, 지도 다운로드 시 7-15 줌 레벨의 데이터를 이용해 상세한 지도 렌더링 가능
+
+<div style="display: flex;">
+<img src="./img/down1.png" width="25%" style="margin-right:12px;" />
+<img src="./img/down2.png" width="25%" />
+</div>
 
 #### 7-4. 앱 저장 및 공유
 
@@ -1156,7 +1181,6 @@ BLE 5.0 Long Range
 - 경보음 실행   
 
 <img src="./img/emergency.png" width="25%"/>
-
 
 
 #### 8-3. 알림
