@@ -1054,11 +1054,11 @@ BLE 5.0 Long Range
 
 <table>
 <tr> 
-<td style = "text-align:center">전체</td>
-<td style = "text-align:center">대피소</td>
-<td style = "text-align:center">가족</td>
-<td style = "text-align:center">약속장소</td>
-<td style = "text-align:center">시설 목록</td>
+<th>전체</th>
+<th>대피소</th>
+<th>가족</th>
+<th>약속장소</th>
+<th>시설 목록</th>
 </tr>
 <tr>
 <td>
@@ -1162,9 +1162,9 @@ BLE 5.0 Long Range
 #### 8-3. 알림
 <table>
 <tr> 
-<th style = "text-align:center">채팅 알림</th>
-<th style = "text-align:center">구조 요청 알림</th>
-<th style = "text-align:center">가족 연결 알림</th>
+<th>채팅 알림</th>
+<th>구조 요청 알림</th>
+<th>가족 연결 알림</th>
 </tr>
 <tr>
 <td>
