@@ -876,7 +876,7 @@ BLE 5.0 Long Range
 
 - 스마트폰 광고  
    자신의 스마트폰을 BLE Long Range 모드로 광고하여 다른 스마트폰에서 BLE Long Range 모드로 스캔할 수 있다.
-  광고 데이터에는 자신의 ID, 이름, Bluetooth MAC 주소를 담아 다른 스마트폰에서 식별 가능.
+  광고 데이터에는 자신의 ID, 이름, Bluetooth MAC 주소를 담아 다른 스마트폰에서 식별 가능하다.   
   희소식 앱만의 UUID를 담아 광고하여 스캔 시에 다른 블루투스 기기들은 필터링하고 희소식 앱을 사용 중인 기기만 스캔되도록 한다.
 
 - 스마트폰 스캔  
@@ -1104,6 +1104,35 @@ BLE 5.0 Long Range
 - APK 파일을 다운로드 하는 기능 제공 (온라인)
 - 안드로이드에 내장된 NEARBYSHARE 기능을 활용하여 APK 파일 전송 (오프라인)
 
+<table>
+<tr> 
+<th style = "text-align:center">채팅 알림</th>
+<th style = "text-align:center">구조 요청 알림</th>
+<th style = "text-align:center">가족 연결 알림</th>
+<th style = "text-align:center">구조 요청 알림</th>
+<th style = "text-align:center">가족 연결 알림</th>
+</tr>
+<tr>
+<td>
+  <img src="./img/map1.png" width="100%"/>
+</td> 
+<td>
+  <img src="./img/map2.png" width="100%"/>
+</td>
+<td>
+  <img src="./img/map3.png" width="100%"/>
+</td>  
+<td>
+  <img src="./img/map4.png" width="100%"/>
+</td>
+<td>
+  <img src="./img/map5.png" width="100%"/>
+</td>  
+
+</tr>
+</table>
+
+
 ### 8. 기타 기능
 
 #### 8-1. 긴급 손전등
@@ -1118,11 +1147,56 @@ BLE 5.0 Long Range
 
 - 사용 기록에서 문구 즐겨찾기 등록
 
+<table width = "33%">
+<tr> 
+<th style = "text-align:center">긴급 손전등 실행</th>
+</tr>
+<tr>
+<td style = "text-align : center">
+  <img src="./img/flash.png" width="100%"/>
+</td> 
+</tr>
+</table>
+
 #### 8-2. 경보
 
 : 긴급 상황 시 소리를 이용한 구조 요청 기능
 
 - 경보음 실행
+<table width = "33%">
+<tr> 
+<th style = "text-align:center">경보음 실행</th>
+</tr>
+<tr>
+<td style="text-align : center">
+  <img src="./img/emergency.png" width="100%"/>
+</td> 
+</tr>
+</table>
+
+
+
+
+
+#### 8-3. 알림
+<table>
+<tr> 
+<th style = "text-align:center">채팅 알림</th>
+<th style = "text-align:center">구조 요청 알림</th>
+<th style = "text-align:center">가족 연결 알림</th>
+</tr>
+<tr>
+<td>
+  <img src="./img/alarm1.png" width="100%"/>
+</td> 
+<td>
+  <img src="./img/alarm2.png" width="100%"/>
+</td>
+<td>
+  <img src="./img/alarm3.png" width="100%"/>
+</td>  
+</tr>
+</table>
 
 ### 9. 동기화
 
