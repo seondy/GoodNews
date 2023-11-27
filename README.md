@@ -849,7 +849,6 @@
 <div align="center">
   <br />
   <img src="./img/시스템아키텍처.png" width="80%"/>
-  <img src="./img/내상태변경.gif" width="80%">
   <br />
 </div>
 
