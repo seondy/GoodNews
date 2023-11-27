@@ -984,15 +984,17 @@ BLE 5.0 Long Range
   - 연결된 사람과 채팅하기
 <table>
 <tr>
+<td>
 <img src="./img/BLE연결.gif" width="25%"/>
-</tr>
-<tr>
+</td>
 <td>
 <img src="./img/bluetooth1.png" />
 </td>
 <td>
 <img src="./img/bluetooth2.png" />
 </td>
+</tr>
+<tr>
 <td>
 <img src="./img/bluetooth3.png" />
 </td>
