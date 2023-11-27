@@ -855,7 +855,6 @@
 
 <br/>
 
-
 <br>
 
 ## 주요 활용 기술
@@ -909,14 +908,30 @@ BLE 5.0 Long Range
 ### 1. 튜토리얼
 
 - '희소식' 앱 소개 및 사용 방법
+<div>
+<img src="./img/tutorial1.png" width="25%" />
+<img src="./img/tutorial2.png" width="25%" />
+<img src="./img/tutorial3.png" width="25%" />
+<img src="./img/tutorial4.png" width="25%" />
+</div>
 
 ### 2. 사용 권한 안내
 
 - '희소식' 앱 사용을 위한 권한 설정
+<div>
+<img src="./img/permission1.png" width="25%" />
+<img src="./img/permission2.png" width="25%" />
+<img src="./img/permission3.png" width="25%" />
+<img src="./img/permission4.png" width="25%" />
+</div>
 
 ### 3. 추가 정보 입력
 
 - 이름(필수) 및 추가 정보(선택) 입력
+<div>
+<img src="./img/addinfo1.png" width="25%" />
+<img src="./img/addinfo2.png" width="25%" />
+</div>
 
 ### 4. 메인 화면
 
@@ -926,6 +941,10 @@ BLE 5.0 Long Range
 
 - 현재 내 건강 상태 업데이트 (건강, 부상, 사망)
 - 마지막 서버 연결 시간 확인
+<div>
+<img src="./img/status1.png" width="25%" />
+<img src="./img/status2.png" width="25%" />
+</div>
 
 #### 4-2. 블루투스
 
@@ -941,6 +960,13 @@ BLE 5.0 Long Range
 - 주변목록 : 블루투스 Mesh를 사용한 장거리 연결
   - Mesh로 연결 가능한 사람 확인
   - 연결된 사람과 채팅하기
+<div>
+<img src="./img/bluetooth1.png" width="25%" />
+<img src="./img/bluetooth2.png" width="25%" />
+<img src="./img/bluetooth3.png" width="25%" />
+<img src="./img/bluetooth4.png" width="25%" />
+<img src="./img/bluetooth5.png" width="25%" />
+</div>
 
 #### 4-3. 채팅
 
@@ -948,8 +974,18 @@ BLE 5.0 Long Range
 
 - 하단 바 또는 내 상태에서 접근가능
 - 텍스트로 주변 사람과 채팅
+<div>
+<img src="./img/chat1.png" width="25%" />
+<img src="./img/chat2.png" width="25%" />
+</div>
 
 ### 5. 가족
+<div>
+<img src="./img/family1.png" width="25%" />
+<img src="./img/family2.png" width="25%" />
+<img src="./img/family3.png" width="25%" />
+<img src="./img/family4.png" width="25%" />
+</div>
 
 #### 5-1. 가족 신청 (온라인)
 
@@ -1062,7 +1098,6 @@ BLE 5.0 Long Range
 - 연결 시간 이후 정보를 업데이트
 - Redis를 사용하여 각 위치의 최신 정보만 DB에 저장
 ```
-
 
 ## 📝 프로젝트 산출물
 
