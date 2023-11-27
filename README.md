@@ -1010,7 +1010,8 @@ BLE 5.0 Long Range
 - 텍스트로 주변 사람과 채팅
 <div style="display: flex;">
 <img src="./img/chat1.png" width="25%" style="margin-right:12px;" />
-<img src="./img/chat2.png" width="25%" />
+<img src="./img/chat2.png" width="25%" style="margin-right:12px;" />
+<img src="./img/BLE로연결된사용자와의채팅.gif" width="25%">
 </div>
 
 ### 5. 가족
